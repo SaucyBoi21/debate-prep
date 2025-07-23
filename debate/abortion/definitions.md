@@ -12,26 +12,36 @@
     - A person under the age of 18
     - Does not include fetuses (exceptions to fetal homicide laws)
 
-- Philisophical/Moral Definition
+- Philosophical/Moral Definition
     - A postnatal human being with personhood
     - Fetus and Embryos are are "unborn children", but this is begging the question
 
 ## What gives someone moral worth?
 
-- Capacity for human concious experience
+- Capacity for human conscious experience
     - Zygotes don't meet this criteria
 
-### Mere potential vs capactiy
+### Mere potential vs capacity
 
 - **Capacity**: A functional ability rooted in existing structure
 - **Mere potential**: Could one day develop this structure
+- **Sufficient capacity** vs **maximal capacity**
+	- A newborn would have sufficient capacity for consciousness
+- We care about beings that have **psychological continuity** - past or future selves, memory, personality. A zygote has none of that.
 
 ## What makes something alive?
 
-- **Cellular Orgainization** - composed of cells
+- **Cellular Organization** - composed of cells
 - **Reproduction** - ability to produce more individuals
 - **Metabolism** - utilizes chemical reactions to obtain and use energy
 - **Homeostasis** - maintain a stable internal environment
 - **Sensitivity** - certain responses to stimulus
 - **Growth and Development** - capable of growing under a specific set of instructions
 - **Regulation** - can control internal functions
+
+## Sentience vs. Consciousness
+- Sentience is simply the capacity to have subjective experiences or qualia
+- Consciousness is much more complex, including self-awareness, introspection, complex thought, and memory
+
+
+
