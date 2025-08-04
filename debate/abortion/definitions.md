@@ -13,7 +13,7 @@
     - Does not include fetuses (exceptions to fetal homicide laws)
 
 - Philosophical/Moral Definition
-    - A postnatal human being with personhood
+    - A postnatal human being with person-hood
     - Fetus and Embryos are are "unborn children", but this is begging the question
 
 ## What gives someone moral worth?
@@ -42,6 +42,11 @@
 ## Sentience vs. Consciousness
 - Sentience is simply the capacity to have subjective experiences or qualia
 - Consciousness is much more complex, including self-awareness, introspection, complex thought, and memory
+- **Qualia** - Subjective, conscious experiences of perception: what it's like to experience something
+	- The redness of red
+	- The taste of chocolate
+	- The smell of roses
+
 
 
 
